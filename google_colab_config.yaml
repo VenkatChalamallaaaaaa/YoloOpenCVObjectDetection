@@ -1,0 +1,8 @@
+
+path: '/content/gdrive/MyDrive/CustomVisionDeveloper/TrainYoloV8DataSet/data' # dataset root dir
+train: '/content/drive/MyDrive/CustomVisionDeveloper/TrainYoloV8DataSet/data/train/imgs'
+val: '/content/drive/MyDrive/CustomVisionDeveloper/TrainYoloV8DataSet/data/validation/imgs'
+
+# Classes
+names:
+  0: alpaca
